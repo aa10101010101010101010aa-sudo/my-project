@@ -1,1 +1,5 @@
-{\rtf1}
+.idea/
+.venv/
+__pycache--/
+*.pyc
+.env
